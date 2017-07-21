@@ -1,2 +1,0 @@
-# lantern
-lantern
